@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/polaris/clojure/astar'
-let g:netrw_dirhist_2='/home/polaris/clojure/astar/src'
-let g:netrw_dirhist_3='/home/polaris/clojure/astar/src/astar'
-let g:netrw_dirhist_4='/home/polaris/.zsh_config/plugins/ssh'
-let g:netrw_dirhist_5='/etc/modules-load.d'
