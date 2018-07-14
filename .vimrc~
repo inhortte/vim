@@ -66,7 +66,7 @@ syntax enable
 set encoding=utf-8
 execute pathogen#infect()
 set background=dark
-colorscheme zazen
+colorscheme pablo
 set tabstop=2
 set expandtab
 " show existing tab with 2 spaces width

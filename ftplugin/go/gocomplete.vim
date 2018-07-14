@@ -1,0 +1,1 @@
+/home/polaris/rummaging_round/go/src/github.com/nsf/gocode/vim/ftplugin/go/gocomplete.vim
